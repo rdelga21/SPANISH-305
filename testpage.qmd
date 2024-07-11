@@ -1,5 +1,88 @@
 ---
-title: "testpage"
+title: "Syllabus"
+author:
+  - "Delgado, FA23"
+  - "T-Th 9:30 am - 10:50 am"
+  - "221 Gregory Hall"
+highlight-style: pygments
+format: 
+  html: default
+  pdf: default
 ---
 
-This is a test page
+**Professor**: Dr. Rodrigo Delgado
+
+**Office**: 4135 Literatures, Cultures & Linguistics Building (LCLB)
+
+**Office hours**: Wednesdays from 3-4 pm, with appointment only
+
+**email**: rdelga21\@illinois.edu
+
+## Objectivos principales del curso
+
+1.  Estudiar las ideas fundamentales de la lingüística generativa.
+
+2.  Estudiar en profundidad los elementos básicos de la oración del español, varias construcciones sintácticas, y las reglas básicas que regulan la estructura de la oración.
+
+## Materiales del curso
+
+1.  Partes del capítulo 1 y del 4 en \*Introducción a la lingüística hispánica (2a edición) editado editado por J.I. Hualde, A. Olarrea, A.M. Escobar, y C.E. Travis, Cambridge: CUP.
+
+2.  Los handouts semanales que se repartirán en clase.
+
+3.  Lecturas variadas que estarán disponibles en Canvas. Las lecturas estarán guardadas en la carpeta de la semana correspondiente. 
+
+
+Es muy importante que hagas las lecturas y que asistas a las clases. Las lecturas complementarán y ayudarán a reforzar el material presentado en clase. En clase, habrá varias oportunidades para hacer preguntas, discutir las lecturas y aclarar dudas.
+
+## La composición de la nota:
+
+1.  3 exámenes: **40%**
+    -   **Exámen 1**: Octubre 12
+    -   **Exámen 2**: Noviembre 16
+    -   **Exámen 3**: Diciembre 8 - *viernes 1:30 - 4:30 pm*
+2.  Ejercicios variados, en clase, en casa, en Moodle: **10%**
+    -   Principalmente de comprensión de las lecturas, de videos y de los handouts. 
+3. Asistencia y participación: **10%**
+4.  2 ensayos (20% cada uno): **40%**
+    -   Cada uno será de entre **6 a 10 páginas a doble espacio, y subidos a Canvas**, no entregados a mano.
+    -   Después de que ponga comentarios en la primera versión de tu ensayo, quedaré con cada uno individualmente para aclarar dudas etc. durante la clase. Mientras esperan para reunirse conmigo, tendrán ejercicios que hacer. Esto es obligatorio para recibir todo el crédito.   
+    
+**Ensayo 1**: Las ideas fundamentales de la lingüística generativa.
+
+-   Este escrito es, en parte, un resumen de los argumentos fundamentales para concluir que los seres humanos estamos genéticamente programados para tener el Lenguaje. Por otra parte, habla de la pregunta de si los animales, o otras especies, pueden tener el Lenguaje humano también, una implicación de la idea de que los seres humanos estamos programados para tenerlo.
+
+    -   **Primera versión:** Sept 14
+    -   **Segunda (y última versión):** Oct 5
+
+**Ensayo 2**: ¿Existen los pronombres nulos en español?
+
+-   Este escrito se centra en los pronombres nulos (los sujetos no pronunciados) y si existen o no en la sintaxis. Este escrito es un ejercicio de analizar datos, crear hipótesis y llegar a conclusiones que tienen implicaciones para la sintaxis.
+
+    -   **Primera versión:** Noviembre 9 
+    -   **Segunda (y última versión):** Dic 5
+    
+**Life happens clause** - You can invoke the clause on one deadline and get a 3-day extension. No explanation required. To use it, please email me stating that you are invoking the clause and the name of the assignment. Tests and in-class writing workshops are excluded. 
+
+## Programa del curso:
+
+-   Quiero mantenerme flexible en cuanto al programa del curso para poder adaptarlo a las necesidades de la clase. Por lo tanto, el siguiente programa está sujeto a cambios, aunque sirve de guía para el curso.
+
+| **Semana** | **Martes**| **Jueves** | **Los Temas**                                                |
+|------------|---------|--------------|-----------|
+| Semana 1| Agosto 22 | 24| Handout 1 - Introducción histórica; la adquisición |
+| Semana 2| 29| 31 | Handout 1 - La lengua como parte de nuestros genes; la linguística generativa; la lengua como parte innata; aprendizaje vs. adquisición                                                                                            |
+| Semana 3| Sept 5 | 7 | Handout 2 - El objeto de estudio; las fuentes de datos; el método científico; los rasgos en la sintaxis                                      |
+| Semana 4| 12 | 14 - **Ensayo 1, Primera versión** | Handout 3 - las categorias sintácticas (o las partes de la oración)                                                  |
+| Semana 5| 19| 21 | Handout 4 - Introducción a los sintagmas (phrases); Handout 5 - más sintagmas                                                                         |
+| Semana 6| 26 - **Citas individuales** | 28 - **Citas individuales**          | Writing workshop                                                                           |
+| Semana 7| Oct 3| 5 - **Ensayo 1,  Segunda versión** | Handout 6 - aún más sintagmas (tiempo y complementante); la elipsis                                                              |
+| Semana 8   | 10 - **Repaso Examen 1**  | 12 - **Examen 1**                  |                                                              |
+| Semana 9   | 17                        | 19                                 | Handout 7 - la referencia, los determinantes, y los pronombres; Handout 8 - los pronombres reflexivos del español y las reglas estructurales                                        |
+| Semana 10  | 24                        | 26                                 | Handout 9 - la estructura argumental: los argumentos vs. los adjuntos          |
+| Semana 11  | 31                        | Nov 2                              | Handout 10 - la teoría de X'                   |
+| Semana 12  | 7                         | 9 - **Ensayo,  Primera versión**   |         Handout 11 - Explicando parte de la variación; Handout 12 - El movimiento de V a T y de T a C                                                      |
+| Semana 13  | 14 - **Repaso Examen 2**  | 16 - **Examen 2**                  |                                                              |
+| Semana 14  | 21 - *Fall break*             | 23 - *Fall break*                      |                                                              |
+| Semana 15  | 28 **Citas individuales** | 30 - **Citas individuales**          |                                                              |
+| Semana 16  | Dic 5 - **Ensayo, Segunda versión**                    |   8 - **Examen Final 1:30-4:30 pm**                                 |   Handout 12 - El movimiento de V a T y de T a C                                                           |
